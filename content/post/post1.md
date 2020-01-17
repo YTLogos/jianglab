@@ -1,23 +1,13 @@
 +++
-date = "2018-05-01"
+date = "2019-12-30"
 short_text = ""
-title = "Welcome to LiuXS Lab"
+title = "Release for website"
 [[authors]]
-    name = "Shixiang Wang"
+    name = "Tao Yan"
     is_member = true
-    link = "/shixiang"
+    link = "/taoyan"
 +++
 
-Welcome! This is home page of Xue-Song Liu lab, ShanghaiTech. University. 
+We release our lab's website.
 
-Most information about our lab can be found [here](/research), if you find anything you are interested in, please feel free to contact us.
-
-BTW, welcome graduate or undergraduate students to contact Professor Liu:
-
-* email: <liuxs@shanghaitech.edu.cn>
-* Phone: 20684520  
-* Address: L building A406 of ShanghaiTech. University 
-
-Happy May Day,
-
-*Shixiang*
+*taoyan*

@@ -1,14 +1,14 @@
-layoutdir = "themes/hugo-academic-group/layouts"
+layoutdir = "themes/academic-group/layouts"
 publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://liuxslab.netlify.com/"
+baseurl = "http://rapeseed.zju.edu.cn/"
 canonifyurls = true
-theme = "hugo-academic-group"
-title = "Xue-Song Liu lab"
+theme = "academic-group"
+title = "Li-Xi Jiang lab"
 math = true
-copyright = "Xue-Song Liu Lab &copy; 2019 -- all rights reserved"
+copyright = "&copy; JiangLX Lab, 2020 "
 enableRobotsTXT = true
 
 [taxonomies]
@@ -18,20 +18,19 @@ tag = "tags"
 
 [params]
   description = "Website of research group"
-  author = "Xue-Song Liu"
-  email = "liuxs@shanghaitech.edu.cn"
-  phone = "20684520"
-  address = "L building A406, ShanghaiTech. University, 393 Middle Huaxia Road, Pudong District, Shanghai"
-
-  slogan = "Laboratory of Cancer Biology"
-  slogan_text = "L building A406, ShanghaiTech. University"
+  author = "Li-Xi Jiang"
+  email = "jianglx@zju.edu.cn"
+  phone = "0571-88982905"
+  address = '<a href="https://www.google.nl/maps/place/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%86%9C%E4%B8%9A%E4%B8%8E%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2/@30.2723396,120.1930973,17z/data=!3m1!4b1!4m5!3m4!1s0x344c9db0439fdf9b:0xdae986ed589acbe4!8m2!3d30.272335!4d120.195286">Building A Room 367, Zhejiang University (ZJG Campus), Hangzhou, 310058, China</a>'
+  slogan = "Laboratory of Plant Molecular Physiology"
+  slogan_text = "Brassica, Genome, Heterosis, Biology"
 
   [params.logo]
-    image = "img/logo_red.svg"
-    link = "http://www.shanghaitech.edu.cn/main.htm"
+    image = "img/zjulogo.svg"
+    link = "http://www.zju.edu.cn/"
 
   [[params.navbar_hierarchy]]
-    name = "Xue-Song Liu Lab"
+    name = "Li-Xi Jiang Lab"
     link = "/"
     position = 1
 
@@ -45,7 +44,7 @@ tag = "tags"
   
   [[params.slogan_columns]]
     title = ""
-    text =  "Xue-Song Liu lab studies the fundamental difference between cancer cell and normal somatic cell. With a purpose to identify cancer specific biomarkers and therapeutic targets. Multiple approaches, including cell biochemistry, bioinformatics and mouse modeling, are combined to investigate the basic mechanisms in cancer."
+    text =  "Li-Xi jiang lab studies Molecular mechansim of oil-yield formation in oilseed rape (Brassica napus) and the effect of seed dormancy degree on oil content of rapeseed and the underlying molecular mechanisms"
     link = "/research"
     link_text = "Read more"
     weight = 2
@@ -96,13 +95,13 @@ tag = "tags"
     str_all = "More Projects"
   
   # Vacancies section
-  # Section will only be displayed if there are valid vacancies in `content/vacancy`
-  [params.vacancies]
-    title = "Teaching"
-    subtitle = ""
-    count = 3
-    str_all = "More Classes"
-
+  # Section will only be displayed if there are valid classes in `content/class`
+#  [params.classes]
+#    title = "Teaching"
+#    subtitle = ""
+#    count = 3
+#    str_all = "More Classes"
+    
   # Contact section.
   [params.contact]
     enable = true
@@ -115,32 +114,43 @@ tag = "tags"
 
   [[menu.main]]
       name = "Home"
-      url = "#top"
+      url = "/#home"
       weight = 1
 
 
   [[menu.main]]
       name = "Publications"
-      url = "#publications"
+      url = "/#publications"
       weight = 2
 
   [[menu.main]]
       name = "Projects"
-      url = "#projects"
+      url = "/#projects"
       weight = 3
 
   [[menu.main]]
-      name = "Members"
-      url = "#members"
+      name = "Cloud"
       weight = 4
+      identifier = "cloud"
+  [[menu.main]]
+    name = "Bna_GWAS"
+    url = "/cloud/gwas"
+    parent = "cloud"
+    weight = 2
+
+  [[menu.main]]
+      name = "Members"
+      url = "/#members"
+      weight = 4
+
   [[menu.main]]
       name = "Teaching"
-      url = "#vacancies"
+      url = "/class/class"
       weight = 5
 
   [[menu.main]]
       name = "Blog"
-      url = "#posts"
+      url = "/#posts"
       weight = 6
 
 

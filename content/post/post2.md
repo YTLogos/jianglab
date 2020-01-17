@@ -1,17 +1,23 @@
 +++
-date = "2019-04-05"
+date = "2020-01-16"
 short_text = ""
-title = "Update for website"
+title = "Welcome to Li-Xi Jiang Lab"
 [[authors]]
-    name = "Shixiang Wang"
+    name = "Tao Yan"
     is_member = true
-    link = "/shixiang"
+    link = "/taoyan"
 +++
 
-We update our member list. Xuan Wang and Huimin Li joined us this year, welcome them! 
+Welcome! This is home page of Li-Xi Jiang lab, Zhejiang University. 
 
-Two undergraduate students Yichen Feng and Yunchuan Ma are doing graduation projects in our lab, welcome them!
+Most information about our lab can be found [here](/research), if you find anything you are interested in, please feel free to contact us.
 
-Some friends has graduated or leaved for new job, best wishes to them.
+BTW, welcome graduate or undergraduate students to contact Professor Jiang:
 
-*Shixiang*
+* email: <jianglx@zju.edu.cn> 
+* Phone: 0571-88982905.
+* Address: Building A Room 367.
+
+Happy 2020!
+
+*taoyan*

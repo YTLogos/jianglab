@@ -8,35 +8,39 @@ math = false
 publication = "eLife 2019;8:e49020 DOI: 10.7554/eLife.49020"
 publication_short = ""
 selected = true
-title = "Antigen presentation and tumor immunogenicity in cancer immunotherapy response prediction"
+title = "Genome-wide association study reveals new genes involved in leaf trichome formation in polyploid oilseed rape (Brassica napus L.)"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://elifesciences.org/articles/49020"
-url_project = "/project/project2-immunotherapybiomarkers"
+url_pdf = "/pdf/pce.13694.pdf"
+url_project = "/project/project1-seed_dormancy"
 url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "Shixiang Wang"
+    name = "Lijie Xuan"
     is_member = true
-    link = "/shixiang"
+    link = "/xuanlijie"
 [[authors]]
-    name = "Zaoke He"
+    name = "Tao Yan"
     is_member = true
-    link = "/zaoke"
+    link = "/taoyan"
 [[authors]]
-    name = "Xuan Wang"
+    name = "Lingzhi Lu"
     is_member = true
-    link = "/xuanwang"
+    link = "/lulingzhi"
 [[authors]]
-    name = "Huimin Li"
+    name = "Xinze Zhao"
     is_member = true
-    link = "/huimin"
+    link = "/zhaoxinze"
 [[authors]]
-    name = "Xue-Song Liu"
+    name = "Dezhi Wu"
     is_member = true
-    link = "/xuesong"
+    link = "/wudezhi"
+[[authors]]
+    name = "Lixi Jiang"
+    is_member = true
+    link = "/jianglx"
 +++
 
 
-More please read this paper [online](https://elifesciences.org/articles/49020) or download it.
+More please read this paper [online](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.13694) or download it.
