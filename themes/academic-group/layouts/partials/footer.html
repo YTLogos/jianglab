@@ -1,0 +1,20 @@
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+{{ range .Site.Params.custom_js }}
+<script src="{{ $.Site.BaseURL }}/js/{{ . }}"></script>
+{{ end }}
+
+<!-- LaTeX math rendering -->
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5l6fbkx4wz1&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
+</body>
+</html>
