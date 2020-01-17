@@ -1,11 +1,11 @@
 +++
-abstract = "Immunotherapy, represented by immune checkpoint inhibitors (ICI), is transforming the treatment of cancer. However, only a small percentage of patients show response to ICI, and there is an unmet need for biomarkers that will identify patients who are more likely to respond to immunotherapy. The fundamental basis for ICI response is the immunogenicity of a tumor, which is primarily determined by tumor antigenicity and antigen presentation efficiency. Here, we propose a method to measure tumor immunogenicity score (TIGS), which combines tumor mutational burden (TMB) and an expression signature of the antigen processing and presenting machinery (APM). In both correlation with pan-cancer ICI objective response rates (ORR) and ICI clinical response prediction for individual patients, TIGS consistently showed improved performance compared to TMB and other known prediction biomarkers for ICI response. This study suggests that TIGS is an effective tumor-inherent biomarker for ICI-response prediction."
+abstract = "Leaf trichomes protect against various biotic and abiotic stresses in plants. However, there is little knowledge about this trait in oilseed rape (*Brassica napus*). Here, we demonstrated that hairy leaves were less attractive to *Plutella xylostella* larvae than glabrous leaves. We established a core germplasm collection with 290 accessions for a genomewide association study (GWAS) of the leaf trichome trait in oilseed rape. We compared the transcriptomes of the shoot apical meristem (SAM) between hairy- and glabrous-leaf genotypes to narrow down the candidate genes identified by GWAS. The single nucleotide polymorphisms and the different transcript levels of *BnaA.GL1.a, BnaC.SWEET4.a, BnaC.WAT1.a* and *BnaC.WAT1.b* corresponded to the divergence of the hairy- and glabrous-leaf phenotypes, indicating the role of sugar and/or auxin signalling in leaf trichome initiation. The hairy-leaf SAMs had lower glucose and sucrose contents but higher expression of putative auxin responsive factors than the glabrous-leaf SAMs. Spraying of exogenous auxin (8 μm) increased leaf trichome number in certain genotypes, whereas spraying of sucrose (1%) plus glucose (6%) slightly repressed leaf trichome initiation. These data contribute to the existing knowledge about the genetic control of leaf trichomes and would assist breeding towards the desired leaf surface type in oilseed rape."
 abstract_short = ""
-date = "2019-11-26"
+date = "2019-12-30"
 image = ""
 image_preview = ""
 math = false
-publication = "eLife 2019;8:e49020 DOI: 10.7554/eLife.49020"
+publication = "Plant, Cell & Environment 30 December 2019 | https://doi.org/10.1111/pce.13694"
 publication_short = ""
 selected = true
 title = "Genome-wide association study reveals new genes involved in leaf trichome formation in polyploid oilseed rape (Brassica napus L.)"
@@ -44,3 +44,5 @@ url_video = ""
 
 
 More please read this paper [online](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.13694) or download it.
+
+

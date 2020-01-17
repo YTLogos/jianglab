@@ -89,5 +89,5 @@ docker run --name $1 -p 80:80 \
 - 使用`hugo`重新生成页面。
 - 重新运行`jianglab_website`容器
 
-** 特别感谢上海科技大学[王诗翔](https://github.com/XSLiuLab/XSLiuLab.github.io)以及[biaslab](https://github.com/biaslab/biaslab-hugo)，本网站主要根据他们的网站修改而来。
+**特别感谢上海科技大学[王诗翔](https://github.com/XSLiuLab/XSLiuLab.github.io)以及[biaslab](https://github.com/biaslab/biaslab-hugo)，本网站主要根据他们的网站修改而来**。
 
