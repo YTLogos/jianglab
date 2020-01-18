@@ -12,7 +12,7 @@ title = "TRANSPARENT TESTA2 regulates embryonic fatty acid biosynthesis by targe
 url_code = ""
 url_dataset = ""
 url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.12426"
-url_project = "/project/project1-oil"
+url_project = "/project/project2-oil"
 url_slides = ""
 url_video = ""
 
