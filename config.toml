@@ -56,15 +56,6 @@ tag = "tags"
  #   link_text = "Read more"
  #   weight = 2
 
-  [[params.sponsors]]
-    name = "NWO"
-    link = "http://www.stw.nl"
-    image = "/img/sponsors/NWO.png"
-  [[params.sponsors]]
-    name = "GN Resound"
-    link = "http://www.resound.com/"
-    image = "/img/sponsors/GNResound.png"
-
 
   # Selected Publications section.
   [params.publications_selected]
