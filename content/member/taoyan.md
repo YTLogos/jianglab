@@ -8,7 +8,7 @@ portrait = "/portraits/taoyan.jpg"
 short_bio = "I am PhD student working on genome research of rapeseed (*Brassica napus* L.)"
 short_name = "Tao"
 title = "Tao Yan"
-sort_position = 3
+sort_position = 6
 personal_website = "https://taoyan.netlify.com"
 cv_link = "https://taoyan.netlify.com/files/CV.pdf"
 
