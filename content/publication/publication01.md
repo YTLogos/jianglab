@@ -13,7 +13,7 @@ url_code = ""
 url_dataset = ""
 url_pdf = "/pdf/pce.13694.pdf"
 url_project = "/project/project1-seed_dormancy"
-url_slides = ""
+url_slides = "/pdf/publication/pce_paper.pdf"
 url_video = ""
 
 [[authors]]
