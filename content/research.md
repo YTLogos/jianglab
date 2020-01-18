@@ -1,16 +1,16 @@
-# JiangLX Lab
+# **JiangLX Lab**
 
 Li-Xi Jiang lab studies Molecular mechansim of oil-yield formation in oilseed rape (*Brassica napus*)、 the effect of seed dormancy degree on oil content of rapeseed and the underlying molecular mechanisms and the genomics of rapeseed genetic resources
 
-### Research Focus:   
+## **Research Focus** 
 
 * Molecular mechanism of lipid formation in Brassica oilseeds;
 * Genomics of rapeseed genetic resources;
 * Prediction of heterosis on the basis of the resequencing data of parental lines.
 
-## Current research projects
+## **Current research projects**
 
-#### Molecular mechansim of oil-yield formation in oilseed rape (*Brassica napus*)
+### Molecular mechansim of oil-yield formation in oilseed rape (*Brassica napus*)
 
 * Project code: 2015CB250100
 
@@ -23,7 +23,7 @@ Li-Xi Jiang lab studies Molecular mechansim of oil-yield formation in oilseed ra
 > This is a Key Project for Basic Research (abbreviated as 973 Project), administrated by Ministry of Science and Technology in PR China. Goal of the research is to understand the molecular basis of oil-yield formation in oilseed rape (*Brassica napus*). There are six workpackages in this 973 project. We are responsible for the workpachage, namely, identification of inhibitors of lipid biosynthesis and the reducers of lipids in developing oilseeds.
 
 
-#### The effect of seed dormancy degree on oil content of rapeseed and the underlying molecular mechanisms
+### The effect of seed dormancy degree on oil content of rapeseed and the underlying molecular mechanisms
 
 * Project code: 31671597
 
@@ -36,7 +36,7 @@ Li-Xi Jiang lab studies Molecular mechansim of oil-yield formation in oilseed ra
 > There are various factors that affect seed oil formation. Our previous research discovered that the rapeseed oil content declines after reaching a peak point. In some years with heavy rainfall before harvest time, seeds of some rapeseed genotype germinate on maternal plant, which causes decrease of fatty acid levels in seeds and the damage of  seed quality. In this study, we aim to investigate (1) the genotypic variation of seed dormancy degree; (2) the association between premature-seed dormancy and fatty-acid level redcution at maturing stage of rapeseed; (3) the differences of transcriptome between developing and germinating seeds, and the key regulators leading to the differences; (4) the feasibilities to promote seed dormancy by manipulating relevant genes and/or selecting allelic variations favorable to premature-seed dormancy.
 
 
-#### Functional analysis and mutagenesis of GDSL genes for breeding oilseed rape (*B. napus*) with higher oil conten
+### Functional analysis and mutagenesis of GDSL genes for breeding oilseed rape (*B. napus*) with higher oil conten
 
 * Porject code: GZ1099
 
@@ -49,7 +49,7 @@ Li-Xi Jiang lab studies Molecular mechansim of oil-yield formation in oilseed ra
 > To increase seed oil content, many efforts have been made on the promotion of lipid biosynthesis efficiency, but little attention has been paid on the blocking of lipid decomposition in the process of oil accumulation. SFARs are defined as GDSL-type lipase genes that are expressed in seeds. They hydrolyze triacylglycerol and reduce the accumulation of seed lipids. Preliminary studies unveiled that the disruption of 5 genes (SFAR1 - SFAR5) resulted in significant increases of fatty acids (FA) in seeds. Moreover, the loss of function at multiple sfar loci had an additive effect on promoting seed oil production. Since Arabidopsis thaliana and oilseed rape (*Brassica napus*) belong to the Brassicaceae family, it is expected that they share the same regulatory mechanisms to control metabolic pathways. Therefore we reason that disruption of a BnSFAR increases seed oil production in *B. napus*, and pyramiding Bnsfar mutants could lead to an even higher  seed oil content. Prof. Jung’s group at CAU has established a rapeseed mutant population which can be easily screened by a TILLING (targeting induced local lesions in genomes) protocol. The proposed joint project aims to (1) systematically clone putative Arabidopsis SFARs and to understand their functions and regulation, (2) to identify the orthologs of 5  SFAR genes (AtSFAR1 - AtSFAR5)  in *B. napus* and to select knock down mutants, and (3) to characterize the effect of Bnsfar mutations on seed oil content and pyramide bnsfar mutations in oilseed rape (*B. napus*).
 
 
-## Join us
+## **Join us**
 
 Welcome graduate or undergraduate students to contact Professor Jiang:
 
@@ -58,7 +58,7 @@ Welcome graduate or undergraduate students to contact Professor Jiang:
 * Address: Building A Room 367.
 
 
-## Members
+## **Members**
 
 ### PI
 
@@ -82,6 +82,7 @@ Welcome graduate or undergraduate students to contact Professor Jiang:
 * Tao Yan
 * Qian Wang
 * Le Zhu
+* Weizhuo Zhu
 * Ying Xu
 * Mengxin TU
 
@@ -100,16 +101,16 @@ Welcome graduate or undergraduate students to contact Professor Jiang:
 ....
 
 
-### Gallery
+## **Gallery**
 
 ![](/img/group/group1.jpg)
 
 ![](/img/group/group2.jpg)
 ![](/img/group/group3.jpg)
 
-## Publications
+## **Publications**
 
-### Selected Papers
+### **Selected Papers**
 
 1. Wu D, Liang Z, Yan T, Xu Y, Xuan L, Tang J, Zhou G, Lohwasser U, Hua S, Wang H, Wang Q, Zhu L, Maodzeka A, Hussain N, Li Z, Li X, Shamsi IH, Jilani G, Wu L, Zheng H, Zhang G, Chalhoub B, Shen L, Yu H, Jiang LX (2019). Whole-genome resequencing of a world-wide collection of rapeseed accessions reveals genetic basis of their ecotype divergence. Molecular Plant 12:36-43
 
