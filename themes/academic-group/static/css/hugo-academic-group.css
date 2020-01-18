@@ -596,6 +596,16 @@ img.in-text {
     padding-top: 10px;
 }
 
+/*****
+*taoyan修改publication字体
+***/
+html, body, p {
+    font-family: 'Merriweather', serif;
+    font-size: 12px;
+    line-height: 1.65;
+    min-height: 100%;
+    height: 100%;
+
 /*************************************************
  *  Projects
  **************************************************/
