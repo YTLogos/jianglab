@@ -18,6 +18,11 @@ In order to make better use of this huge ***B. napus*** gerplasm accessions, we 
 
 <font size=4 face="Time">You just need upload your phenotype data to run **GWAS**. Here we just use the **`300`** core collection gerplasm which represent the most of genetic resources of 1000 ***B. napus*** gerplasm accessions. an example of the expected input data format is present as below:
 
+<style>
+table th:first-of-type {
+        width: 100px;
+}
+</style>
 
 
 |   |   |
@@ -53,5 +58,3 @@ An example of the expected input phenotype dataset can be accessible [**here**](
 # <font color=green size=6 face="Time">Annotation</font>
 
 <font size=4 face="Time">This section is designed for gene annotation based on different databases (`eggNOG`, `GO`, `KEGG`, `NR`, etc.).</font>
-
-You can click [**Here**](http://rapeseed.zju.edu.cn:3838/gwas) to access the **Bna-GWAS-Cloud**.
