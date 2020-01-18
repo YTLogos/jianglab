@@ -1,21 +1,7 @@
 +++
 abstract = "Flavonoids are involved in many physiological processes in plants. TRANSPARENT
-TESTA 4 (TT4) acts at the first step of flavonoid biosynthesis, and the loss of TT4
-function causes a lack of flavonoid. Flavonoid deficiency is reportedly the main cause
-of increased fatty acid content in pale‐coloured oilseeds, but details regarding the
-relationship between seed flavonoids and fatty acid biosynthesis are elusive. In this
-work, we applied a genetic strategy combined with biochemical and cytological assays
-to determine the effect of seed flavonoids on the biosynthesis of fatty acids in
-Arabidopsis thaliana. We showed that *TT4*‐mediated flavonoids negatively affect
-embryonic fatty acid biosynthesis. A crossing experiment indicated that seed
-flavonoid biosynthesis and the impact of this process on fatty acid biosynthesis were
-controlled in a maternal line‐dependent manner. Loss of TT4 function activated
-glycolysis in seed embryos, thereby enhancing fatty acid biosynthesis, but did not
-improve seed mucilage production. Moreover, loss of TT4 function reduced *PIN‐
-FORMED 4* expression and subsequently increased auxin accumulation in embryos.
-Pharmacologically and genetically elevated auxin levels enhanced seed fatty acid
-biosynthesis. These results indicated that flavonoids affect fatty acid biosynthesis
-by carbon source reallocation via regulation of *WRINKLE1* and auxin transport."
+TESTA 4 (TT4) acts at the first step of flavonoid biosynthesis, and the loss of TT4 function causes a lack of flavonoid. Flavonoid deficiency is reportedly the main cause of increased fatty acid content in pale‐coloured oilseeds, but details regarding the relationship between seed flavonoids and fatty acid biosynthesis are elusive. In this work, we applied a genetic strategy combined with biochemical and cytological assays to determine the effect of seed flavonoids on the biosynthesis of fatty acids in Arabidopsis thaliana. We showed that *TT4*‐mediated flavonoids negatively affect embryonic fatty acid biosynthesis. A crossing experiment indicated that seed flavonoid biosynthesis and the impact of this process on fatty acid biosynthesis were controlled in a maternal line‐dependent manner. Loss of TT4 function activated glycolysis in seed embryos, thereby enhancing fatty acid biosynthesis, but did not improve seed mucilage production. Moreover, loss of TT4 function reduced *PIN‐
+FORMED 4* expression and subsequently increased auxin accumulation in embryos. Pharmacologically and genetically elevated auxin levels enhanced seed fatty acid biosynthesis. These results indicated that flavonoids affect fatty acid biosynthesis by carbon source reallocation via regulation of *WRINKLE1* and auxin transport."
 abstract_short = ""
 date = "2018-01-03"
 image = ""
