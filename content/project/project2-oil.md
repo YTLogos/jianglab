@@ -1,6 +1,6 @@
 +++
 date = "2015-05-01"
-description = "This is a Key Project for Basic Research (abbreviated as 973 Project), administrated by Ministry of Science and Technology in PR China. Goal of the research is to understand the molecular basis of oil-yield formation in oilseed rape (*Brassica napus*). There are six workpackages in this 973 project. We are responsible for the workpachage, namely, identification of inhibitors of lipid biosynthesis and the reducers of lipids in developing oilseeds."
+description = "This is a Key Project for Basic Research (abbreviated as 973 Project), administrated by Ministry of Science and Technology in PR China. Goal of the research is to understand the molecular basis of oil-yield formation in oilseed rape (*Brassica napus*)."
 external_link = ""
 picture = "projects/oil.jpg"
 project_id = "project2"
