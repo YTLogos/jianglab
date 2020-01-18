@@ -5,7 +5,7 @@ id = "s-taoyan"
 interests = ["Genome Evolution", "Population Genetics", "Python & R Program", "Data Science", "Bioinformatics", "Machine Learning"]
 name = "Tao Yan"
 portrait = "/portraits/taoyan.jpg"
-short_bio = "I am PhD student working on genome research of rapeseed (*Brassica napus* L.)"
+short_bio = "I am PhD candidate working on genome research of rapeseed (*Brassica napus* L.)"
 short_name = "Tao"
 title = "Tao Yan"
 sort_position = 6
@@ -40,7 +40,7 @@ cv_link = "https://taoyan.netlify.com/files/CV.pdf"
 
 [[organizations]]
     name = "ZJU"
-    role = "PhD Student"
+    role = "PhD candidate"
 
 +++
 

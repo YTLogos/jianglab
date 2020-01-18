@@ -38,7 +38,7 @@ personal_website = "https://person.zju.edu.cn/en/wudezhi"
     year = 2006
 [[organizations]]
     name = "ZJU"
-    role = "Associate Professor"
+    role = "Associate professor"
 
 +++
 
