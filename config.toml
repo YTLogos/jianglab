@@ -68,7 +68,6 @@ tag = "tags"
   # Section will only be displayed if there are publications in `content/publication/`.
   [params.publications]
     count = 5
-    #detailed_list = false
     title = "Publications"
     subtitle = ""
     str_all = "More Publications"
