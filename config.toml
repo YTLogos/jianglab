@@ -135,8 +135,17 @@ tag = "tags"
     name = "Bna_GWAS"
     url = "/cloud/gwas"
     parent = "cloud"
+    weight = 1
+  [[menu.main]]
+    name = "LDheatmap"
+    url = "/cloud/ldheatmap"
+    parent = "cloud"
     weight = 2
-
+  [[menu.main]]
+    name = "SNP_distribution"
+    url = "/cloud/snp_distribution"
+    parent = "cloud"
+    weight = 3
   [[menu.main]]
       name = "Members"
       url = "/#members"
