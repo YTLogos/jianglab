@@ -12,6 +12,7 @@ title = "Whole-Genome Resequencing of a Worldwide Collection of Rapeseed Accessi
 url_code = ""
 url_dataset = ""
 url_pdf = "https://doi.org/10.1016/j.molp.2018.11.007"
+url_Poster = "/pdf/mp_poster.pdf"
 url_project = "/project/project1-seed_dormancy"
 url_slides = ""
 url_video = ""
