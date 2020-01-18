@@ -1,5 +1,5 @@
 +++
-date = "2018-05-01"
+date = "2017-05-01"
 description = "There are various factors that affect seed oil formation. Our previous research discovered that the rapeseed oil content declines after reaching a peak point. In some years with heavy rainfall before harvest time, seeds of some rapeseed genotype germinate on maternal plant, which causes decrease of fatty acid levels in seeds and the damage of  seed quality."
 external_link = ""
 picture = "projects/seed_dormancy.png"
@@ -35,6 +35,11 @@ participants_block_position = "down"
 +++
 
 
-There are various factors that affect seed oil formation. Our previous research discovered that the rapeseed oil content declines after reaching a peak point. In some years with heavy rainfall before harvest time, seeds of some rapeseed genotype germinate on maternal plant, which causes decrease of fatty acid levels in seeds and the damage of  seed quality. In this study, we aim to investigate (1) the genotypic variation of seed dormancy degree; (2) the association between premature-seed dormancy and fatty-acid level redcution at maturing stage of rapeseed; (3) the differences of transcriptome between developing and germinating seeds, and the key regulators leading to the differences; (4) the feasibilities to promote seed dormancy by manipulating relevant genes and/or selecting allelic variations favorable to premature-seed dormancy.
+There are various factors that affect seed oil formation. Our previous research discovered that the rapeseed oil content declines after reaching a peak point. In some years with heavy rainfall before harvest time, seeds of some rapeseed genotype germinate on maternal plant, which causes decrease of fatty acid levels in seeds and the damage of  seed quality. In this study, we aim to investigate:
+ 
+- the genotypic variation of seed dormancy degree; 
+- the association between premature-seed dormancy and fatty-acid level redcution at maturing stage of rapeseed; 
+- the differences of transcriptome between developing and germinating seeds, and the key regulators leading to the differences; 
+- the feasibilities to promote seed dormancy by manipulating relevant genes and/or selecting allelic variations favorable to premature-seed dormancy.
 
 ![](/img/projects/seed_dormancy.png)
