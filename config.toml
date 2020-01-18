@@ -23,7 +23,7 @@ tag = "tags"
   phone = "0571-88982905"
   address = '<a href="https://www.google.nl/maps/place/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%86%9C%E4%B8%9A%E4%B8%8E%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2/@30.2723396,120.1930973,17z/data=!3m1!4b1!4m5!3m4!1s0x344c9db0439fdf9b:0xdae986ed589acbe4!8m2!3d30.272335!4d120.195286">Building A Room 367, Zhejiang University (ZJG Campus), Hangzhou, 310058, China</a>'
   slogan = "Laboratory of Plant Molecular Physiology"
-  slogan_text = "Brassica, Genome, Heterosis, Biology"
+  slogan_text = "Brassica, Oil, Genome, Heterosis, Biology"
 
   [params.logo]
     image = "img/zjulogo.svg"

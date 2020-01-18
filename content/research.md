@@ -1,6 +1,6 @@
 # JiangLX Lab
 
-Li-Xi jiang lab studies Molecular mechansim of oil-yield formation in oilseed rape (*Brassica napus*)、 the effect of seed dormancy degree on oil content of rapeseed and the underlying molecular mechanisms and the genomics of rapeseed genetic resources
+Li-Xi Jiang lab studies Molecular mechansim of oil-yield formation in oilseed rape (*Brassica napus*)、 the effect of seed dormancy degree on oil content of rapeseed and the underlying molecular mechanisms and the genomics of rapeseed genetic resources
 
 ### Research Focus:   
 
