@@ -37,7 +37,7 @@ personal_website = "https://person.zju.edu.cn/en/wudezhi"
     institution = 'China Agricultural University, Crop Genetics and Breeding'
     year = 2006
 [[organizations]]
-    name = "Zhejiang University"
+    name = "ZJU"
     role = "Associate Professor"
 
 +++

@@ -39,7 +39,7 @@ cv_link = "https://taoyan.netlify.com/files/CV.pdf"
     year = 2012
 
 [[organizations]]
-    name = "Zhejiang University"
+    name = "ZJU"
     role = "PhD Student"
 
 +++

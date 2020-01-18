@@ -38,7 +38,7 @@ personal_website = "https://person.zju.edu.cn/en/0005104"
     institution = 'Zhejiang University, hangzhou, China'
     year = 1986
 [[organizations]]
-    name = "Zhejiang University"
+    name = "ZJU"
     role = "Professor & PI"
 
 +++
