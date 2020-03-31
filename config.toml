@@ -19,7 +19,7 @@ tag = "tags"
 [params]
   description = "Website of research group"
   author = "Li-Xi Jiang"
-  email = "jianglx@zju.edu.cn"
+  email = "jianglx<at>zju.edu.cn"
   phone = "0571-88982905"
   address = '<a href="https://www.google.nl/maps/place/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%86%9C%E4%B8%9A%E4%B8%8E%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2/@30.2723396,120.1930973,17z/data=!3m1!4b1!4m5!3m4!1s0x344c9db0439fdf9b:0xdae986ed589acbe4!8m2!3d30.272335!4d120.195286">Building A Room 367, Zhejiang University (ZJG Campus), Hangzhou, 310058, China</a>'
   slogan = "Laboratory of Plant Molecular Physiology"
@@ -66,7 +66,7 @@ tag = "tags"
   # Publications section.
   # Section will only be displayed if there are publications in `content/publication/`.
   [params.publications]
-    count = 5
+    count = 3
     detailed_list = false
     title = "Publications"
     subtitle = ""
@@ -90,7 +90,7 @@ tag = "tags"
   [params.projects]
     title = "Projects"
     subtitle = ""
-    count = 5
+    count = 2
     str_all = "More Projects"
   
   # Vacancies section
