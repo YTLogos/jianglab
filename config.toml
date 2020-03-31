@@ -69,7 +69,7 @@ tag = "tags"
     count = 3
     detailed_list = false
     title = "Publications"
-    subtitle = ""
+    subtitle = "Selected Publications"
     str_all = "More Publications"
 
   # Posts section.
