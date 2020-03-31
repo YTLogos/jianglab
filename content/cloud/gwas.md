@@ -52,4 +52,4 @@ An example of the expected input phenotype dataset can be accessible [**here**](
 
 <font size=4 face="Time">This section is designed for gene annotation based on different databases (`eggNOG`, `GO`, `KEGG`, `NR`, etc.).</font>
 
-You can click [**Here**](http://rapeseed.zju.edu.cn:3838/gwas) to access the **Bna-GWAS-Cloud**.
+You can click [Here](http://rapeseed.zju.edu.cn:3838/gwas) to access the **Bna-GWAS-Cloud**.
