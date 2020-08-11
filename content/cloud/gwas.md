@@ -6,7 +6,7 @@
 
 In genetics, a genome-wide association study (**GWAS**), also known as whole genome association study (WGAS), is an observational study of a genome-wide set of genetic variants in different individuals to see if any variant is associated with a trait. **GWAS** typically focus on associations between single-nucleotide polymorphisms (**SNPs**) and traits like major agronomic traits.
 
-In order to make better use of this huge ***B. napus*** gerplasm accessions, we develop this interactive application ([**Bna-GWAS-Cloud**](http://rapeseed.zju.edu.cn:3838/gwas/)) in [**R**](https://www.r-project.org/) with [**`Shiny`**](https://shiny.rstudio.com/). This aaplication can conduct **GWAS**, visualization of **GWAS** results (Manhattan plot and QQ plot), extraction of significant genes and annotation of genes</font>.
+In order to make better use of this huge ***B. napus*** gerplasm accessions, we develop this interactive application (<a href="http://121.41.229.126:3838/gwas" target="_blank">**Bna_GWAS_Cloud**</a>), you can also access it from http://121.41.229.126:3838/gwas/, in [**R**](https://www.r-project.org/) with [**`Shiny`**](https://shiny.rstudio.com/). This aaplication can conduct **GWAS**, visualization of **GWAS** results (Manhattan plot and QQ plot), extraction of significant genes and annotation of genes</font>.
 
 # <font face="Time" color=green size=6>Data input</font>
 
@@ -52,4 +52,4 @@ An example of the expected input phenotype dataset can be accessible [**here**](
 
 <font size=4 face="Time">This section is designed for gene annotation based on different databases (`eggNOG`, `GO`, `KEGG`, `NR`, etc.).</font>
 
-You can click [Here](http://rapeseed.zju.edu.cn:3838/gwas) to access the **Bna-GWAS-Cloud**.
+You can click [Here](http://121.41.229.126:3838/gwas) and [Here](http://rapeseed.zju.edu.cn:3838/gwas)  to access the **Bna-GWAS-Cloud**.
