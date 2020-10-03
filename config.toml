@@ -3,7 +3,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://rapeseed.zju.edu.cn/"
+baseurl = "https://jianglab.netlify.com"
 canonifyurls = true
 theme = "academic-group"
 title = "JiangLX Lab"
