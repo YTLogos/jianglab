@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on JiangLX Lab</title>
+    <link>http://rapeseed.zju.edu.cn/member/</link>
+    <description>Recent content in Members on JiangLX Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; JiangLX Lab, 2020 </copyright>
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rapeseed.zju.edu.cn/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>De-Zhi Wu</title>
+      <link>http://rapeseed.zju.edu.cn/member/wudezhi/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/member/wudezhi/</guid>
+      <description>Publications   Kuang LH#, Shen QF#, Wu LY, Yu JH, Fu LB, Wu DZ*, Zhang GP. Identification of microRNAs responding to salt stress in barley by high-throughput sequencing and degradome analysis. Environ Exp Bot, 2019, Accepted.
+  Wu DZ#, Liang Z#, Yan T, Xu Y, Xuan LJ, Tang J, Zhou G, Lohwasser U, Hua SJ, Wang HY, Chen XY, Wang Q, Zhu L, Maodzeka A, Hussain N, Li Z, Li X, Shamsi IH, Jilani G, Wu L, Zheng H, Zhang GP, Chalhoub B, Shen L, Yu H, Jiang LX*.</description>
+    </item>
+    
+    <item>
+      <title>Li-Xi Jiang</title>
+      <link>http://rapeseed.zju.edu.cn/member/jianglx/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/member/jianglx/</guid>
+      <description>Publications Selected Papers   Wu D, Liang Z, Yan T, Xu Y, Xuan L, Tang J, Zhou G, Lohwasser U, Hua S, Wang H, Wang Q, Zhu L, Maodzeka A, Hussain N, Li Z, Li X, Shamsi IH, Jilani G, Wu L, Zheng H, Zhang G, Chalhoub B, Shen L, Yu H, Jiang LX (2019). Whole-genome resequencing of a world-wide collection of rapeseed accessions reveals genetic basis of their ecotype divergence.</description>
+    </item>
+    
+    <item>
+      <title>Tao Yan</title>
+      <link>http://rapeseed.zju.edu.cn/member/taoyan/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/member/taoyan/</guid>
+      <description>Tao Yan is a PhD student of Crop Genetics and Breeding at the Zhejiang University Crop Science Lab. My Ph.D research work covers a range of issues : Population Genetics Evolution and Ecotype Divergence Analysis of oilseed Rape, Genome-wide Association Study (GWAS) of Agronomic Traits. Currently, He is interested in Transposable Elements Insertion Polymorphisms (TIPs) in Crop Population and genetic basis such as SV, CNV and TIPs etc shapes the diversity of different morphotypes of B.</description>
+    </item>
+    
+  </channel>
+</rss>

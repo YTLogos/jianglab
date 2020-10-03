@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on JiangLX Lab</title>
+    <link>http://rapeseed.zju.edu.cn/project/</link>
+    <description>Recent content in Projects on JiangLX Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; JiangLX Lab, 2020 </copyright>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rapeseed.zju.edu.cn/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The effect of seed dormancy degree on oil content of rapeseed and the underlying molecular mechanisms</title>
+      <link>http://rapeseed.zju.edu.cn/project/project1-seed_dormancy/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/project/project1-seed_dormancy/</guid>
+      <description>There are various factors that affect seed oil formation. Our previous research discovered that the rapeseed oil content declines after reaching a peak point. In some years with heavy rainfall before harvest time, seeds of some rapeseed genotype germinate on maternal plant, which causes decrease of fatty acid levels in seeds and the damage of seed quality. In this study, we aim to investigate:
+ the genotypic variation of seed dormancy degree; the association between premature-seed dormancy and fatty-acid level redcution at maturing stage of rapeseed; the differences of transcriptome between developing and germinating seeds, and the key regulators leading to the differences; the feasibilities to promote seed dormancy by manipulating relevant genes and/or selecting allelic variations favorable to premature-seed dormancy.</description>
+    </item>
+    
+    <item>
+      <title>Functional analysis and mutagenesis of GDSL genes for breeding oilseed rape (B. napus) with higher oil content</title>
+      <link>http://rapeseed.zju.edu.cn/project/project3-gdsl/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/project/project3-gdsl/</guid>
+      <description>To increase seed oil content, many efforts have been made on the promotion of lipid biosynthesis efficiency, but little attention has been paid on the blocking of lipid decomposition in the process of oil accumulation. SFARs are defined as GDSL-type lipase genes that are expressed in seeds. They hydrolyze triacylglycerol and reduce the accumulation of seed lipids. Preliminary studies unveiled that the disruption of 5 genes (SFAR1 - SFAR5) resulted in significant increases of fatty acids (FA) in seeds.</description>
+    </item>
+    
+    <item>
+      <title>Molecular mechansim of oil-yield formation in oilseed rape (Brassica napus)</title>
+      <link>http://rapeseed.zju.edu.cn/project/project2-oil/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/project/project2-oil/</guid>
+      <description>This is a Key Project for Basic Research (abbreviated as 973 Project), administrated by Ministry of Science and Technology in PR China. Goal of the research is to understand the molecular basis of oil-yield formation in oilseed rape (Brassica napus). There are six workpackages in this 973 project. We are responsible for the workpachage, namely, identification of inhibitors of lipid biosynthesis and the reducers of lipids in developing oilseeds.</description>
+    </item>
+    
+  </channel>
+</rss>

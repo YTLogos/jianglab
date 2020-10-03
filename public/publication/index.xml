@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on JiangLX Lab</title>
+    <link>http://rapeseed.zju.edu.cn/publication/</link>
+    <description>Recent content in Publications on JiangLX Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; JiangLX Lab, 2020 </copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rapeseed.zju.edu.cn/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genome-wide association study reveals new genes involved in leaf trichome formation in polyploid oilseed rape (Brassica napus L.)</title>
+      <link>http://rapeseed.zju.edu.cn/publication/publication01/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/publication/publication01/</guid>
+      <description>More please read this paper online or download it.</description>
+    </item>
+    
+    <item>
+      <title>Whole-Genome Resequencing of a Worldwide Collection of Rapeseed Accessions Reveals the Genetic Basis of Ecotype Divergence</title>
+      <link>http://rapeseed.zju.edu.cn/publication/publication02/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/publication/publication02/</guid>
+      <description>More please read this paper online or download it.</description>
+    </item>
+    
+    <item>
+      <title>TRANSPARENT TESTA 4‐mediated flavonoids negatively affect embryonic fatty acid biosynthesis in Arabidopsis</title>
+      <link>http://rapeseed.zju.edu.cn/publication/publication04/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/publication/publication04/</guid>
+      <description>More please read this paper online or download it.</description>
+    </item>
+    
+    <item>
+      <title>Effect of high night temperature on storage lipids and transcriptome changes in developing seeds of oilseed rape</title>
+      <link>http://rapeseed.zju.edu.cn/publication/publication03/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/publication/publication03/</guid>
+      <description>More please read this paper online or download it.</description>
+    </item>
+    
+    <item>
+      <title>TRANSPARENT TESTA8 Inhibits Seed Fatty Acid Accumulation by Targeting Several Seed Development Regulators in Arabidopsis</title>
+      <link>http://rapeseed.zju.edu.cn/publication/publication06/</link>
+      <pubDate>Sun, 08 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/publication/publication06/</guid>
+      <description>More please read this paper online or download it.</description>
+    </item>
+    
+    <item>
+      <title>TRANSPARENT TESTA2 regulates embryonic fatty acid biosynthesis by targeting FUSCA3 during the early developmental stage of Arabidopsis seeds</title>
+      <link>http://rapeseed.zju.edu.cn/publication/publication05/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/publication/publication05/</guid>
+      <description>More please read this paper online or download it.</description>
+    </item>
+    
+  </channel>
+</rss>

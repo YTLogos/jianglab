@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clouds on JiangLX Lab</title>
+    <link>http://rapeseed.zju.edu.cn/cloud/</link>
+    <description>Recent content in Clouds on JiangLX Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; JiangLX Lab, 2020 </copyright>
+    
+	<atom:link href="http://rapeseed.zju.edu.cn/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://rapeseed.zju.edu.cn/cloud/bnasnpdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/cloud/bnasnpdb/</guid>
+      <description>BnaSNPDB: SNP Database of Brassica napus L.   Overview The SNP database of Brassica napus L. (BnaSNPDB) is an interactive web portal that provides multiple analysis modules to visualize and explore SNPs among 1007 rapeseed germplasm accessions based on the data reported by previous research (Wu et al., 2019). The app is deployed at http://121.41.229.126:3838/bnasnpdb and http://rapeseed.zju.edu.cn:3838/bnasnpdb for online use. The whole dataset and code of BnaSNPDB is available at https://github.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rapeseed.zju.edu.cn/cloud/gwas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rapeseed.zju.edu.cn/cloud/gwas/</guid>
+      <description>Introduction Rapeseed (Brassica napus L.) is an important source of edible oil and protein-rich livestock feed in the world. B. napus (AACC) was ancestrally originated from an interspecific hybridization between two diploid progenitors, B. rapa (AA) (n = 10) and B. oleracea (CC) (n = 9), less than 7500 years ago. In our previous study, we resequenced a world-wide collection of 991 B. napus gerplasm accessions, including 658 winter types, 145 semi-winter types and 188 spring types, from 39 countries (Wu et al.</description>
+    </item>
+    
+  </channel>
+</rss>
